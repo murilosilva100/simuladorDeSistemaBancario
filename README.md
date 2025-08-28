@@ -1,4 +1,4 @@
-# bancoMalvaderJavafx
+# Banco Malvader
 Simulador de sistema bancário (Banco Malvader)
 
 O projeto foi desenvolvido diretamente através da IDE do IntelliJ, Scene Builder para as telas em FXML e MySQL Workbeanch para o banco de dados.
